@@ -1,0 +1,10 @@
+Origin: Ubuntu
+Label: Ubuntu
+Suite: xenial
+Version: 16.04
+Codename: xenial
+Date: Thu, 21 Apr 2016 23:23:46 UTC
+Architectures: amd64
+Components: main restricted extras
+Description: Ubuntu Xenial 16.04
+Acquire-By-Hash: yes

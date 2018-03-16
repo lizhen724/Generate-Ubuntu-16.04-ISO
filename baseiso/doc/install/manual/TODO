@@ -1,0 +1,14 @@
+en/install-methods/download/arm.xml: armmp-install-files is not accurate for
+  the set of d-i images built.
+en/boot-installer/arm.xml: armhf-console-setup is not accurate for the set of
+  d-i images built.
+en/boot-installer/arm.xml: boot-hd-media is not accurate for Ubuntu.
+en/hardware/supported/arm.xml: only mentions Mustang and Juno, not other
+  enabled boards.
+en/hardware/supported/powerpc.xml: list of powerpc kernel flavors is wrong.
+en/preparing/bios-setup/arm.xml: armhf-uboot-images is inaccurate for
+  Ubuntu armhf images (disabled for now).
+en/preparing/needed-info.xml: incorrectly claims that you can't install non-free
+  drivers in a live image.
+en/using-d-i/modules/apt-setup.xml: wrong documentation of stable-updates,
+  and contrib/non-free.  Mentions wheezy.  Mentions ftp.ipv6.debian.org.
